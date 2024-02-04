@@ -26,6 +26,7 @@ ___
 - wait from 1 to 5 min to ensure your tg bot activated
 - use `/start` command in your tg bot to get instuction or just send 1 pic of female fullface
 - wait answer
+- enjoy ur creepy animeficated face in tg or in work directory (it will have name of *"your_tg_id".png* before inferece and *"your_tg_id_".png* after inference)
 
 Example of usage: 
 
