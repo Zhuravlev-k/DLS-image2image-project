@@ -33,4 +33,4 @@ Example of usage:
 
 \* - if you've got problem getting it from github you can take it and others weights [here](https://disk.yandex.ru/d/-NmOZAwlLGJCIQ)
 
-\** if you want to train get all weights from link above, put them in working make 2 directories "trainA" and "trainB" with datasets, and empty directory "training_samples" and run train.py from animefication folder
+\** - if you want to train get all weights from link above, put them in working directory, make 2 directories "trainA" and "trainB" with datasets, and empty directory "training_samples" and run train.py from animefication folder
