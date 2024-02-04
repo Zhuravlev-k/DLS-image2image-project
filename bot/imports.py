@@ -2,8 +2,8 @@ import os
 import sys
 def add_path():
     cd = os.getcwd()
-    # pwd = cd + "/animefication" # unix version
-    pwd = cd + "\\animefication" # win version
+    module_name = "animefication"
+    pwd = os.path.join(cd, module_name)
     sys.path.append(pwd)
     
 

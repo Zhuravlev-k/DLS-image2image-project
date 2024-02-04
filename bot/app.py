@@ -4,7 +4,7 @@ from aiogram.filters import CommandStart
 from inference import prepare_generator, inference
 from aiogram.types import FSInputFile
 
-bot = Bot("6743992056:AAECagM0E6bgVgiSxGXoHL_CD8t2kENOv8Y")
+bot = Bot("INSERT_YOUR_TOKEN")
 dp = Dispatcher()
 
 generator = prepare_generator()
